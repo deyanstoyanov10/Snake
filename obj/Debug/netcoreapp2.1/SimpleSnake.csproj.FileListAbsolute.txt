@@ -1,0 +1,11 @@
+D:\wordpress\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\wordpress\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\wordpress\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\wordpress\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\wordpress\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\wordpress\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
